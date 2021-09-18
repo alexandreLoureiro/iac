@@ -1,0 +1,2 @@
+# configurar aws cli
+# https://www.youtube.com/watch?v=slHbWmsQZ6s
